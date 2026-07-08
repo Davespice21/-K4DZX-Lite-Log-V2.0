@@ -1,10 +1,10 @@
 K4DZX Lite Radio Log V2.0
-A lightweight, console-based amateur radio contact logging program built for ham radio operators.
+A lightweight, console-based amateur radio log book built for ham radio operators.
 Designed by David Spicer - K4DZX
 Features
 
-Auto log numbering — no more manual entry
-Automatic UTC time — fills current time, easily override if needed
+Auto log numbering — no more manual entry like in V1.0
+Automatic UTC — fills current time.
 Event-based log files — saves as Event Name.txt or contacts.txt
 Clean interface with automatic screen clearing
 Load / Save multiple log books
@@ -22,10 +22,8 @@ Emergency communications (EmComm)
 
 How to Use
 
-Run radio_log.py
+Run K4DZX_LLR_V2.py
 Choose New Log Book or Open Existing
-Start logging contacts quickly with auto-filled UTC time
-
 Keyboard Shortcuts / Menu
 
 1 Add Contact
@@ -36,4 +34,4 @@ Keyboard Shortcuts / Menu
 6 New Log Book
 7 Exit
 
-Simple, fast, and reliable — built for real-world ham radio use.
+Simple, fast, reliable
