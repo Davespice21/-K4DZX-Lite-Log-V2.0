@@ -1,6 +1,5 @@
 K4DZX Lite Radio Log V2.0
-A lightweight, console-based amateur radio log book built for ham radio operators.
-Designed by David Spicer - K4DZX
+Built with Python, K4DZX Lite Radio Log V2.0 is a lightweight, console-based amateur radio log book made for ham radio operators.
 Features
 
 Auto log numbering — no more manual entry like in V1.0
